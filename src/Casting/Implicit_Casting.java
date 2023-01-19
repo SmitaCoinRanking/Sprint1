@@ -11,6 +11,8 @@ public class Implicit_Casting {
 		int i =(int)10.8;
 		System.out.println("....Explicit casting....");
 		System.out.println(i);
+		//From github
+		System.out.println("...Comments from GitHub...By Team Lead")
 	}
 
 }
